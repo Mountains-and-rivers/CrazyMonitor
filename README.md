@@ -10,9 +10,6 @@
     python3 MonitorServer.py start  启动监控主程序
 
     python3 MonitorServer.py trigger_watch  启动报警监听程序
-
-# python自动化交流群
-  Python开发之路 304154367 
   
   
 # 项目截图
