@@ -11,9 +11,6 @@
 
     python3 MonitorServer.py trigger_watch  启动报警监听程序
 
-
-# 项目讲解视频
-http://edu.51cto.com/course/course_id-6208.html 
 # python自动化交流群
   Python开发之路 304154367 
   
